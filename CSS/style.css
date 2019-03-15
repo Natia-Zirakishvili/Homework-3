@@ -1,0 +1,52 @@
+.d-block {display:inline-block;}
+.container {margin-left: 30px}
+
+.header {margin-top: 20px}
+.logo {width: 100px;
+margin-right: 50px;
+vertical-align: middle;}
+.navigation-li {margin-left: 20px;}
+.spannav {color: red}
+
+.image1 {margin: 70px 100px 120px 100px;}
+.featured {margin-left: 100px;
+margin-top: 0px;}
+.divider {height: 20px; background-color: black;
+	width: 1px; margin: 0px 8px;
+	vertical-align: middle
+}
+.web-design {background-color: #F2F2F2;
+width: 570px; margin-left: 98px; margin-top: 30px; margin-right: 30px; vertical-align: top;}
+.web-design-header {color: #3D58A6; margin: 10px;}
+.web-design-img {width: 100px; margin-left: 30px; margin-bottom: 30px;
+vertical-align: top; text-align: middle;}
+.web-design-text {font-size: 20px; width:340px; margin-left: 50px; padding-top: 10px}
+
+.app-development {background-color: #F2F2F2;
+width: 570px; margin-top: 30px}
+.app-development-header {color: #3D58A6; margin: 10px;}
+.app-development-img {width: 90px; margin-left: 30px; margin-bottom: 30px;
+vertical-align: top; text-align: middle;}
+.app-development-text {font-size: 20px; width:340px; margin-left: 50px;}
+
+.social-media {margin-top: 70px; margin-bottom: 30px;}
+.facebook {width: 10px;}
+.youtube {width: 20px}
+.divider-social {height: 20px; width: 1px; background-color: #3D58A6; margin-left: 30px; margin-right: 30px}
+
+.index1-footer {margin-left: 100px}
+
+.date {font-size: 48px; background-color: #3D58A6; padding: 1px; color: white; margin-top: 50px}
+.month {font-size: 20px; color:#3D58A6; margin-bottom: 24px;}
+.article-header {margin-bottom: 15px}
+.article-image {vertical-align: top}
+.article-text {font-size: 16px; width: 930px; height: 346px;}
+
+.contact {background-color: #F2F2F2; margin-top: 20px; margin-right: 0px; height: 570px}
+.map {margin:45px 30px 45px 0px; vertical-align: top;}
+
+.contact-text {margin-top:55px; margin-left: 50px; margin-right: 60px; width:240px;}
+.information {color: blue;}
+
+.paragraph1 {margin-bottom: 10px}
+.span1 { color:grey;}
